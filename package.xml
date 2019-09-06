@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<package format="2">
+  <name>mars_rover_description</name>
+  <version>0.0.0</version>
+  <description>Robot description of Mars Rover</description>
+  <maintainer email="fujimoto@aisl.cs.tut.ac.jp">fujimoto</maintainer>
+  <url type="website">https://aisl-serv6.aisl.cs.tut.ac.jp:20443/fujimoto/mars_rover_description</url>
+
+  <license>TODO</license>
+  <buildtool_depend>catkin</buildtool_depend>
+  <exec_depend>gazebo_plugins</exec_depend>
+  <exec_depend>urdf</exec_depend>
+  <exec_depend>xarco</exec_depend>
+</package>
